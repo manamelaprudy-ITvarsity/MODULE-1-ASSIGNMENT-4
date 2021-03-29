@@ -1,0 +1,26 @@
+h1{
+    color: #2296c7;
+    font-size: 40px; 
+    font-family: helvetica, sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: green;
+    font-family: helvetica, sans-serif;
+    text-align: right;
+}
+h3{
+    font-family: comic sans, comic sans ms, cursive;
+}
+p{
+    font-weight: 800;
+    text-decoration: line-through;
+}
+tables{
+    font-family: helvatica, sans serif;
+}
+th{
+    font-weight: 800;
+    text-decoration: line-through;
+}
